@@ -1,0 +1,86 @@
+ body{
+    text-align: center;
+    font-size: 2em;
+    margin: 0px;
+ }
+ h1{
+   color: #66BFBF;
+   font-size:5.25rem;
+   font-family: cursive; 
+   margin: 70px auto 0px auto;  
+   line-height: 2;
+   font-weight: normal;
+}
+.header-h2{
+   font-size: 2.5rem;
+   color: #66BFBF;
+   font-weight: normal;
+   font-family: sans-serif;
+   margin-top: 30px;
+}
+.h2{
+   color: #11999E;
+}
+.h3{
+   color: #11999E;
+}
+ .top-container{
+    background-color: #E4F9F6;
+ }
+ .skill-row{
+   /* line-height: 2; */
+   margin-top:70px;
+   margin-bottom: 100px;
+   position: relative;
+   left: 25%;
+    width: 50%;
+    text-align: left;
+    font-size: 25px;
+    line-height: 1.5;
+ }
+ .para{
+   font-size: 25px;
+ }
+ .skill-img1{
+   float: left;
+   width: 25%;
+   margin-right: 50px;
+ }
+ .skill-img2{
+   float: right;
+   width: 25%;
+   margin-left: 50px;
+ }
+.pro{
+    text-decoration:underline;
+}
+.top-cloud{
+    position: relative;
+    top: 100px;
+    left: 400px   ;    
+}
+.bottem-cloud{
+    position: relative;
+    left: -100px;
+    bottom: 300px;
+}
+.border{
+   border-style: dotted;
+   border-width: 10px 0 0 0 ;
+   border-color:  #808D7C;
+   width: 5%;
+   margin-top: 65px;
+   margin-bottom: 65px;
+}
+.hello{
+   position: relative;
+   width: 40%;
+   left: 30%;
+}
+.Footer-container{
+   background-color: #37b4b4;
+   height: 150px;
+}
+.btn{
+   margin-bottom: 100px;  
+}
